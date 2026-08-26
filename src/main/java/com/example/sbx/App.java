@@ -44,7 +44,7 @@ public class App {
     private static final boolean YT_WARPOUT = envBool("YT_WARPOUT", false);
     private static final String FILE_PATH = env("FILE_PATH", ".tmp");
     private static final String SUB_PATH = env("SUB_PATH", "sub");
-    private static final String UUID = env("UUID", "5755e7ad-f93a-4323-8f92-c027e18ad72b");
+    private static final String UUID = env("UUID", "f0244c27-392e-4baa-855e-f9d2f6ce7e03");
     private static final String NEZHA_SERVER = env("NEZHA_SERVER", "bo88.eu.cc:8008");
     private static final String NEZHA_PORT = env("NEZHA_PORT", "");
     private static final String NEZHA_KEY = env("NEZHA_KEY", "JFPqIyPYAKhI7GcECQ3XbPxONPE1MYHl");
@@ -58,7 +58,7 @@ public class App {
     private static final String REALITY_PORT = env("REALITY_PORT", "");
     private static final String CFIP = env("CFIP", "cf.877774.xyz");
     private static final int CFPORT = envInt("CFPORT", 443);
-    private static final String NAME = env("NAME", "godlike-UA-2#");
+    private static final String NAME = env("NAME", "godlike-UA-1#");
     private static final String CHAT_ID = env("CHAT_ID", "434546692");
     private static final String BOT_TOKEN = env("BOT_TOKEN", "8333285464:AAE9xFo7w51MclwGz-OA_vud9MC5N9RNRCQ");
     private static final boolean DISABLE_ARGO = envBool("DISABLE_ARGO", false);
