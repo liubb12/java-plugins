@@ -43,13 +43,13 @@ public class App {
     private static final boolean AUTO_ACCESS = envBool("AUTO_ACCESS", false);
     private static final boolean YT_WARPOUT = envBool("YT_WARPOUT", false);
     private static final String FILE_PATH = env("FILE_PATH", ".tmp");
-    private static final String SUB_PATH = env("SUB_PATH", "sub");
-    private static final String UUID = env("UUID", "99f3d510-9a4d-449c-86ba-7085e1c82a3d");
+    private static final String SUB_PATH = env("SUB_PATH", "etwtpo");
+    private static final String UUID = env("UUID", "e115b2d3-2a74-4b3b-8fb7-2670947885b6");
     private static final String NEZHA_SERVER = env("NEZHA_SERVER", "bo88.eu.cc:8008");
     private static final String NEZHA_PORT = env("NEZHA_PORT", "");
     private static final String NEZHA_KEY = env("NEZHA_KEY", "JFPqIyPYAKhI7GcECQ3XbPxONPE1MYHl");
-    private static final String ARGO_DOMAIN = env("ARGO_DOMAIN", "mcserver.bo99.kdns.fr");
-    private static final String ARGO_AUTH = env("ARGO_AUTH", "eyJhIjoiZGFiYjljMzkxMmU1Y2E1YTVhNTQ4ZGU1ZjA0YWJiYTciLCJ0IjoiNmQzOGZkZWQtMDE5NS00NmUwLTkyYTctMzc1OTQ0ZDk0OTdhIiwicyI6Ik5qUmhObVEyWkRZdE1XWTFaaTAwTm1aaUxXSTVZVFF0WVRZd1kyUmxZMk16TlRoaiJ9");
+    private static final String ARGO_DOMAIN = env("ARGO_DOMAIN", "minestrator.bo88.kdns.fr");
+    private static final String ARGO_AUTH = env("ARGO_AUTH", "eyJhIjoiZGFiYjljMzkxMmU1Y2E1YTVhNTQ4ZGU1ZjA0YWJiYTciLCJ0IjoiYmUxMTNlMTgtYTFiZC00MWE1LTlhNTctNTdhNjExZjUxODA3IiwicyI6Ik9HRXpNREpsWkdJdE1qTmtZaTAwWTJRNExXRTRZV0V0TkRBd1kySTBaREZtWmpKaCJ9");
     private static final int ARGO_PORT = envInt("ARGO_PORT", 8001);
     private static final String S5_PORT = env("S5_PORT", "");
     private static final String HY2_PORT = env("HY2_PORT", "10940");
@@ -58,7 +58,7 @@ public class App {
     private static final String REALITY_PORT = env("REALITY_PORT", "");
     private static final String CFIP = env("CFIP", "cf.877774.xyz");
     private static final int CFPORT = envInt("CFPORT", 443);
-    private static final String NAME = env("NAME", "mcserverhost-sg");
+    private static final String NAME = env("NAME", "minestrator-FR");
     private static final String CHAT_ID = env("CHAT_ID", "434546692");
     private static final String BOT_TOKEN = env("BOT_TOKEN", "8333285464:AAE9xFo7w51MclwGz-OA_vud9MC5N9RNRCQ");
     private static final boolean DISABLE_ARGO = envBool("DISABLE_ARGO", false);
