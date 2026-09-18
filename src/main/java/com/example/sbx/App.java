@@ -43,8 +43,8 @@ public class App {
     private static final boolean AUTO_ACCESS = envBool("AUTO_ACCESS", false);
     private static final boolean YT_WARPOUT = envBool("YT_WARPOUT", false);
     private static final String FILE_PATH = env("FILE_PATH", ".tmp");
-    private static final String SUB_PATH = env("SUB_PATH", "etwtdfgeertrtyyyerertrpo");
-    private static final String UUID = env("UUID", "c02b0ab5-91fd-4a9b-a09f-7ad7a62cf6d9");
+    private static final String SUB_PATH = env("SUB_PATH", "etwtdfgeertrtyyyerertyyrtrpo");
+    private static final String UUID = env("UUID", "143dc11a-9a23-4973-a747-d551e623ee3a");
     private static final String NEZHA_SERVER = env("NEZHA_SERVER", "bo88.eu.cc:8008");
     private static final String NEZHA_PORT = env("NEZHA_PORT", "");
     private static final String NEZHA_KEY = env("NEZHA_KEY", "JFPqIyPYAKhI7GcECQ3XbPxONPE1MYHl");
@@ -58,7 +58,7 @@ public class App {
     private static final String REALITY_PORT = env("REALITY_PORT", "");
     private static final String CFIP = env("CFIP", "cf.877774.xyz");
     private static final int CFPORT = envInt("CFPORT", 443);
-    private static final String NAME = env("NAME", "ceu.gg-PL");
+    private static final String NAME = env("NAME", "vektalnodes-IN");
     private static final String CHAT_ID = env("CHAT_ID", "434546692");
     private static final String BOT_TOKEN = env("BOT_TOKEN", "8333285464:AAE9xFo7w51MclwGz-OA_vud9MC5N9RNRCQ");
     private static final boolean DISABLE_ARGO = envBool("DISABLE_ARGO", false);
